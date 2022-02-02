@@ -1,3 +1,3 @@
 # Datacamp-projects
 
-## Projects from https://app.datacamp.com/learn
+## Projects from https://www.datacamp.com/
